@@ -1,0 +1,27 @@
+Break keyword;
+break keyword break the loop.we always use Break keyword with if conditions once th conditions is met
+it stops the loop even there are still interations remaining.
+Why should we use Break:
+If we use Brek  we can save a lot of unnecessary processing by terminating the loop once the goal is complete.
+
+Continue:
+Continue keyword is used to skip unnecessary calculations.
+If an element meets a condition that element is skipped and we move ti the next element.
+
+Why should we use?
+To save resources to avid unnecessary calculations.
+Break and continue keyword are always written with if conditions inside the loop.
+
+2D Arrays:
+2D arrays is simply multiple one d arrays combined together in the for of rows and columns.
+
+Row and Colums
+//Как в таблице эксель находим ряд+ колонка должно быть два показателя числа на перекрест
+  0 1 2 3 4 (COLUMS)
+0
+1
+2
+3
+4
+
+

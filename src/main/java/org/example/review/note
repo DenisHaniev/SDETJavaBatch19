@@ -1,0 +1,29 @@
+difference between println  and print
+println - automatic print each to next line
+print - print in one line all you write
+
+Variables are like containers that we use to store data in our programs.
+Data types are use to store and indentify different type of data in variable.
+Primitive dataType:
+byte- extra small
+short-small
+int- medium
+long- extra large
+float-  small container for decimal number
+double- medium
+char- smaller datatype with  one characters
+boolean- true or false
+
+non-primitive dataTypes
+string
+===================================
+How we shoud to diced
+
+varibal -писать правильно имя или текст что было понятно (ИМЯ. Фамия, возраст ит)
+
+Arithmetic operators
+Are simply these symbols that we can use to perform simple math.
+
+System.out.println(10+"10"10); - ответ 10 10 10
+ System.out.println(10+10+"10"); - ответ (10+10)10=2010
+ result concantination always -string

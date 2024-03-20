@@ -1,0 +1,10 @@
+int num=10;
+ if(num%2==0) формула для четного числа
+
+ int num=10;
+ if(num%2==1)  формула для нечетное числа
+
+1)We can click on the starting bracket to check  the ending bracket intellij is going to highlighy the ending bracket.
+2)we can double click inside any if condition to highlight all
+Scanner Class:
+Scanner class is used to take the input of the user from the keyword

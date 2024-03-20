@@ -1,0 +1,25 @@
+scanner class in java.
+Scanner is a class justlike the classes that we create.
+but it is specially designated so that other can use it.
+This class has a lot of methods which can help us take the input from the keyboard.
+
+logical Operators:
+NOT(!)- revers boolean (from true to false and false to true)
+OR(||)-OR helps us to combine multiple boolean conditions in away when one conditionds is try the over all is try.
+AND(&&) AND helps us to combine conditions in a way that we only get an overall true when all the conditions are true/
+
+loop:
+Loops help us repart a block of code as long as the condition is true
+why should we loops:
+Loops help us reduce duplicate code.
+Wile -when we do not now the number of iterations in advance its better we use while loop.
+for loop is better when we know the number of iterations in advance.
+Do Wile -
+For Wile -
+
+
+
+
+when should we use switch statment
+we shuold use switch when we are checking the same variable against multiple value and for each
+value we want to do something different

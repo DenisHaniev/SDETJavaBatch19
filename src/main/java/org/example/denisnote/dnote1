@@ -1,0 +1,66 @@
+Пример какие операторы надо использовать в задачах (+-*\<>=)
+
+System.out.println(num);Если написать просто слово()- тогда выдаст цифры которые ты зада взадаче от 1 до 10
+System.out.println("num");Если написать просто слово("num")- тогда выдаст слово которые ты зада
+
+================================
+ Если чила десятичные в задаче
+ double num1=20.6;
+ double num2=10.5;
+ double add=(num1+num2)
+ System.out.println("The additional of 2 numbers "+num1+" and "+num2+" is equal to "+add);
+
+double maCar=12000;
+double maCar2=11000;
+ if(maCar>maCar2){
+ System.out.println("Double value is "+maCar+" is larger than "+maCar2);
+==============================
+Если целое число целлые
+Задача найти perimeter и area
+int width=5;
+int height=8;
+int perimeter=2*(width+height);
+int area=(width+height)*2;
+System.out.println("The perimeter of the rectangle with width "+width+" and "+height+" and the area is "+area);
+===============================
+Короткий пример как операторы надо использовать в задачах  (+-*\<>=)
+int number=100;
+ number+=10;  //  short variant add 10 to the value of number variable
+ System.out.println(number); ответ 110
+==================================
+//перевод чисел из разных varibal надо знать сколько  может вмещять .
+из маленьеого в большое . из Байт в ИНТЕ
+byte num=10;
+int number=num;
+System.out.println(number);
+==============================
+Метод equals(): метод сравнивает значения объектов и возвращает логическое значение true, если они равны,
+и false в противном случае
+int number1=10;
+int number2=20;
+System.out.println(number1==number2); false
+System.out.println(10==10);true
+
+!= if something is not same returns true
+======================================
+Задача с методом больше или равно
+int num1=10;
+int num2=20;
+System.out.println(num1>=num2);
+System.out.println(num1<=num2);
+===================================
+===================================
+Задача с методом больше или равно if  and else
+int expected=20;
+int actual=10;
+if(expected>=actual) {
+System.out.println("you will love the course and you will succeed");
+}else {
+System.out.println("Course will be very hard for you");\
+=============================
+В задаче надо узнать правда или лож
+int num1=100;
+int num2=20;
+boolean r=num1>num2;
+System.out.println(num1>num2);true
+System.out.println(r);true
